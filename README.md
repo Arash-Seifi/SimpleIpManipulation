@@ -2,10 +2,8 @@
 
 I will try to add new ip manupulation functions later on with  packet sniffers/analyzers.
 
-Use this to install packages:
-```
-pip install -r requirements.txt
-```
+make shure to install dependencies
+
 To run the program:
 ```
 py IpManipulation.py
