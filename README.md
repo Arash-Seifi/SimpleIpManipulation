@@ -2,7 +2,7 @@
 
 I will try to add new ip manupulation functions later on with  packet sniffers/analyzers.
 
-make shure to install dependencies
+make sure to install dependencies
 
 To run the program:
 ```
